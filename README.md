@@ -1,4 +1,4 @@
-# password-Manager
+![Screenshot 2025-03-03 201251](https://github.com/user-attachments/assets/3f75a0d5-f302-485c-a81e-7c3e0938db87)# password-Manager
 This project is a secure password manager that utilizes local storage for quick access while integrating a backend API with MongoDB for secure and persistent data storage. It ensures efficient password management with a combination of frontend and backend technologies.
 
 # React + Vite
@@ -188,6 +188,7 @@ Answer: both
 ```javascript
 import Component from 'my-project'
 
+
 function App() {
   return <Component />
 }
@@ -202,3 +203,6 @@ function App() {
 ## Feedback
 
 If you have any feedback, please reach out to us at visv9199@gmial.com
+![Screenshot 2025-03-03 201251](https://github.com/user-attachments/assets/555c2a59-033d-43eb-a45a-357e3affb31b)
+![Screenshot 2025-03-03 201320](https://github.com/user-attachments/assets/c5a69751-b1d3-41d9-bedc-e108ac680801)
+![Screenshot 2025-03-03 201342](https://github.com/user-attachments/assets/f22b3d6f-f0cc-400d-8c13-f445ee064174)
