@@ -193,17 +193,6 @@ function App() {
 }
 ```
 
-## Related
-
-Here are some related projects
-
-[Awesome README](https://github.com/vikasvishwakarma018)
-
-
-## Lessons Learned
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
-
 
 ## Author
 
